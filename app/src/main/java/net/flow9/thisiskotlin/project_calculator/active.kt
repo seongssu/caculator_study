@@ -1,3 +1,5 @@
+package net.flow9.thisiskotlin.project_calculator
+
 import kotlin.jvm.Throws
 
 fun main() {
